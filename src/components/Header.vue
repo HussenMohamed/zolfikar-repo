@@ -15,7 +15,7 @@
         </div>
 
         <RouterLink to="/login">login</RouterLink>
-        <RouterLink to="/logout">Logout</RouterLink>
+        <RouterLink to="">Logout</RouterLink>
         <RouterLink to="/">play video</RouterLink>
         <RouterLink to="/user/1">user Profile</RouterLink>
       </div>

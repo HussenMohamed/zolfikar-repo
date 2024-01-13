@@ -8,6 +8,7 @@
   --text: #585858;
   --background: #f6f6f9;
   --box-shadow: var(--light) 0px 4px 12px;
+  --bor-rad: 10px;
 }
 
 /************ Dark Theme Varables ************/
